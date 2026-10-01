@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481169367919",
+    "project_id": "coctact-app",
+    "storage_bucket": "coctact-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481169367919:android:eafa3ef51ed870157bbe9a",
+        "android_client_info": {
+          "package_name": "com.example.contact_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK7t0Pd8rkPSOl0F2ZBhCI9qDA9w_ThJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
